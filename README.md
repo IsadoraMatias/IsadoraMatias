@@ -16,6 +16,26 @@
 - 🌱 Constantly seeking to learn and grow in technology to make a positive impact.
 - 📫 Feel free to explore my repositories and reach out to me for any questions or collaboration!
 
+ <div>
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsadoraMatias" alt="GitHub Stats" /> <br/><br/>
+  </div>
+
+![My github status](https://github-readme-stats.vercel.app/api?username=IsadoraMatias&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraMatias&layout=compact)
+
+## 🙋‍♀️ Connect with me!
+<p align="center">
+  <a href="https://portafolioisa1.netlify.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:izzadora@outlook.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Outlook"/></a>
+	<a href="https://github.com/IsadoraMatias"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/isadoramatias/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<!--<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>-->
+	</p>
+
+
+
 
   
  
